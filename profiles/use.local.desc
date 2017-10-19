@@ -1,0 +1,22 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-emulation/lxd:daemon - Build the system daemon, not just the client tool
+app-emulation/lxd:dnsmasq - Depend on dnsmasq to provide DHCP and DNS.
+dev-util/bats:bats_lib_path - Apply patches to support a library path.
+dev-util/ctags:ada - Enable Ada support
+dev-util/ctags:json - Enable JSON output support
+dev-util/ctags:xml - Enable XML parsing support
+dev-util/ctags:yaml - Enable YAML parsing support
+www-client/palemoon:content-sandbox - Enable sandboxing support for content-processes
+www-client/palemoon:custom-optimization - Build with user-specified compiler optimizations from CFLAGS (unsupported)
+www-client/palemoon:gtk2 - Use the cairo-gtk2 rendering engine
+www-client/palemoon:official-branding - Build with official branding
+www-client/palemoon:sandbox - Enable sandboxing support
+www-client/palemoon:system-harfbuzz - Use the system-wide media-libs/harfbuzz and media-gfx/graphite2 instead of bundled.
+www-client/palemoon:system-icu - Use the system-wide dev-libs/icu instead of bundled.
+www-client/palemoon:system-jpeg - Use the system-wide media-libs/libjpeg-turbo instead of bundled.
+www-client/palemoon:system-libevent - Use the system-wide dev-libs/libevent instead of bundled.
+www-client/palemoon:system-libvpx - Use the system-wide media-libs/libvpx instead of bundled.
+www-client/palemoon:system-sqlite - Use the system-wide dev-db/sqlite installation with secure-delete enabled

@@ -1,0 +1,11 @@
+DEFINED_PHASES=install test
+DEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path] dev-util/bats-support
+DESCRIPTION=Common filesystem assertions for Bats
+EAPI=6
+HOMEPAGE=https://github.com/ztombol/bats-file
+KEYWORDS=~amd64 ~x86
+LICENSE=CC0-1.0
+RDEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path] dev-util/bats-support
+SLOT=0
+SRC_URI=https://github.com/ztombol/bats-file/archive/v0.2.0.tar.gz -> bats-file-0.2.0.tar.gz
+_md5_=e9ecbf3520a298ce7fe1e41a6b0d8876

@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare test unpack
+DEPEND=app-shells/bash:0 >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Bash Automated Testing System
+EAPI=6
+HOMEPAGE=https://github.com/sstephenson/bats
+IUSE=+bats_lib_path
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=app-shells/bash:0
+SLOT=0
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	52a888802d25387c2c74cb845d1219bc
+_md5_=9b8632a8642a06159dabe35f2f3553d6

@@ -1,0 +1,11 @@
+DEFINED_PHASES=install test
+DEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path]
+DESCRIPTION=Supporting library for Bats test helpers
+EAPI=6
+HOMEPAGE=https://github.com/ztombol/bats-support
+KEYWORDS=~amd64 ~x86
+LICENSE=CC0-1.0
+RDEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path]
+SLOT=0
+SRC_URI=https://github.com/ztombol/bats-support/archive/v0.3.0.tar.gz -> bats-support-0.3.0.tar.gz
+_md5_=adaa09741f680fb9c7cf878af860469c
