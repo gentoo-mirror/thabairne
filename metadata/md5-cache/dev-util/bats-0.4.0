@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare test
+DEPEND=app-shells/bash:0
+DESCRIPTION=Bash Automated Testing System
+EAPI=6
+HOMEPAGE=https://github.com/sstephenson/bats
+IUSE=+bats_lib_path
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=app-shells/bash:0
+SLOT=0
+SRC_URI=https://github.com/sstephenson/bats/archive/v0.4.0.tar.gz -> bats-0.4.0.tar.gz
+_md5_=6adbbf2da0eb3a4eb027fd08dcb3ca98

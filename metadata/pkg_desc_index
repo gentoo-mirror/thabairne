@@ -1,0 +1,8 @@
+app-admin/libral 9999: A native Resource Abstraction Layer
+app-emulation/lxd 2.14: Fast, dense and secure container management
+dev-util/bats 0.4.0 9999: Bash Automated Testing System
+dev-util/bats-assert 0.3.0 9999: Common assertions for Bats
+dev-util/bats-file 0.2.0 9999: Common filesystem aassertions for Bats
+dev-util/bats-support 0.3.0 9999: Supporting library for Bats test helpers
+dev-util/ctags 20170704: Exuberant Ctags creates tags files for code browsing in editors
+www-client/palemoon 27.5.1: Open Source, Goanna-based web browser focusing on efficiency and ease of use.

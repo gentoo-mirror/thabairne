@@ -1,0 +1,11 @@
+DEFINED_PHASES=install test unpack
+DEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path] >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Supporting library for Bats test helpers
+EAPI=6
+HOMEPAGE=https://github.com/ztombol/bats-support
+KEYWORDS=~amd64 ~x86
+LICENSE=CC0-1.0
+RDEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path]
+SLOT=0
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
+_md5_=be62ef9524f3162e420ac6220034799f
