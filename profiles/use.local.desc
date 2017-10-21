@@ -12,8 +12,10 @@ dev-util/ctags:yaml - Enable YAML parsing support
 www-client/palemoon:content-sandbox - Enable sandboxing support for content-processes
 www-client/palemoon:custom-optimization - Build with user-specified compiler optimizations from CFLAGS (unsupported)
 www-client/palemoon:gtk2 - Use the cairo-gtk2 rendering engine
+www-client/palemoon:jemalloc - Enable or disable jemalloc
 www-client/palemoon:official-branding - Build with official branding
 www-client/palemoon:sandbox - Enable sandboxing support
+www-client/palemoon:system-cairo - Use the system-wide x11-libs/cairo instead of bundled.
 www-client/palemoon:system-harfbuzz - Use the system-wide media-libs/harfbuzz and media-gfx/graphite2 instead of bundled.
 www-client/palemoon:system-icu - Use the system-wide dev-libs/icu instead of bundled.
 www-client/palemoon:system-jpeg - Use the system-wide media-libs/libjpeg-turbo instead of bundled.
