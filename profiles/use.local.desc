@@ -18,7 +18,6 @@ www-client/palemoon:jemalloc - Enable or disable jemalloc
 www-client/palemoon:official-branding - Build with official branding
 www-client/palemoon:sandbox - Enable sandboxing support
 www-client/palemoon:shared-js - Create a shared JavaScript library
-www-client/palemoon:system-bzip2 - Use the system-wide app-arch/bzip2 instead of bundled.
 www-client/palemoon:system-cairo - Use the system-wide x11-libs/cairo instead of bundled.
 www-client/palemoon:system-harfbuzz - Use the system-wide media-libs/harfbuzz and media-gfx/graphite2 instead of bundled.
 www-client/palemoon:system-icu - Use the system-wide dev-libs/icu instead of bundled.
@@ -26,5 +25,3 @@ www-client/palemoon:system-jpeg - Use the system-wide media-libs/libjpeg-turbo i
 www-client/palemoon:system-libevent - Use the system-wide dev-libs/libevent instead of bundled.
 www-client/palemoon:system-libvpx - Use the system-wide media-libs/libvpx instead of bundled.
 www-client/palemoon:system-sqlite - Use the system-wide dev-db/sqlite installation with secure-delete enabled
-www-client/palemoon:system-webp - Use the system-wide media-libs/libwebp instead of bundled.
-www-client/palemoon:system-zlib - Use the system-wide sys-libs/zlib instead of bundled.
