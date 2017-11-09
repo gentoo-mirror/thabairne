@@ -14,7 +14,7 @@ if [[ "${PV}" =~ .*rc.* ]]; then
 	MY_PV="${PV%%_rc*}-RC${PV##*_rc}"
 fi
 
-MY_LANGPACK_PV="${PV%%_rc*}_RC2"
+MY_LANGPACK_PV="${PV%%_rc*}_RC3"
 MOZ_FTP_URI="https://github.com/"
 MOZ_LANGPACK_PREFIX="JustOff/pale-moon-localization/releases/download/${MY_LANGPACK_PV}/"
 MOZ_LANGS=(ar bg cs da de el en-GB es-AR es-ES es-MX fi fr gl hr hu is it ja kn ko nl pl pt-BR pt-PT ro ru sk sl sr sv-SE tl tr uk vi zh-CN zh-TW)
