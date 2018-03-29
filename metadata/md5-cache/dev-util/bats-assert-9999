@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=CC0-1.0
 RDEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path] dev-util/bats-support
 SLOT=0
-_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
+_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782
 _md5_=f4438a615a8ff42ffd074448f0feec42
