@@ -9,5 +9,5 @@ LICENSE=MIT
 PROPERTIES=live
 RDEPEND=app-shells/bash:0
 SLOT=0
-_eclasses_=epatch	a1bf4756dba418a7238f3be0cb010c54	git-r3	7d6c351ee8b1feb12ed8c8b0adae088b
+_eclasses_=epatch	a1bf4756dba418a7238f3be0cb010c54	git-r3	809e27702c573cbba31c08ed00bbad33
 _md5_=9b8632a8642a06159dabe35f2f3553d6
