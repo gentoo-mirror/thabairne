@@ -1,3 +1,4 @@
+app-admin/bitwarden-cli 1.11.0: The command line vault
 app-admin/libral 9999: A native Resource Abstraction Layer
 app-emulation/lxd 2.14: Fast, dense and secure container management
 dev-libs/libvterm 0.0_pre20180702: An abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator

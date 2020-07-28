@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=The command line vault
+EAPI=7
+HOMEPAGE=https://bitwarden.com
+IUSE=zsh-completion
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/bitwarden/cli/releases/download/v1.11.0/bw-linux-1.11.0.zip -> bitwarden-cli-1.11.0.zip
+_md5_=62a20ad1b7ffa23269f31aec6a6bfdaa
