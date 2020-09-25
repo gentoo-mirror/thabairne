@@ -8,5 +8,4 @@ dev-util/bats-file 0.2.0 9999: Common filesystem aassertions for Bats
 dev-util/bats-support 0.3.0 9999: Supporting library for Bats test helpers
 dev-util/ctags 20170704: Exuberant Ctags creates tags files for code browsing in editors
 net-misc/urlview 0.9: extracts urls from text and will send them to another app
-www-client/palemoon 27.5.1 27.6.0 27.6.1 27.6.2 27.7.1 27.7.2 27.8.1 27.8.3 27.9.0 27.9.1 27.9.3: Open Source, Goanna-based web browser focusing on efficiency and ease of use.
 x11-terms/pangoterm 0.0_pre20180702: A GTK/Pango-based terminal that uses libvterm to provide terminal emulation
