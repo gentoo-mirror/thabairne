@@ -3,11 +3,12 @@ DEPEND=app-shells/bash:0 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Bash Automated Testing System
 EAPI=6
 HOMEPAGE=https://github.com/sstephenson/bats
+INHERIT=git-r3 epatch
 IUSE=+bats_lib_path
 KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 PROPERTIES=live
 RDEPEND=app-shells/bash:0
 SLOT=0
-_eclasses_=epatch	e8f1ec13660dc2f44b32775765d85e42	estack	055c42df72f76a4f45ec92b35e83cd56	git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52	estack	055c42df72f76a4f45ec92b35e83cd56	epatch	f62592ba170464d52e9a05f584161347
 _md5_=9b8632a8642a06159dabe35f2f3553d6

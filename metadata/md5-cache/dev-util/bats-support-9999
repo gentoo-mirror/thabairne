@@ -3,10 +3,11 @@ DEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path] >=dev-vcs/git-1.8.2.1[curl
 DESCRIPTION=Supporting library for Bats test helpers
 EAPI=6
 HOMEPAGE=https://github.com/ztombol/bats-support
+INHERIT=git-r3
 KEYWORDS=~amd64 ~x86
 LICENSE=CC0-1.0
 PROPERTIES=live
 RDEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path]
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=be62ef9524f3162e420ac6220034799f
