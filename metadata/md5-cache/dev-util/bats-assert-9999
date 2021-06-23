@@ -9,5 +9,5 @@ LICENSE=CC0-1.0
 PROPERTIES=live
 RDEPEND=app-shells/bash:0 dev-util/bats[bats_lib_path] dev-util/bats-support
 SLOT=0
-_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=f4438a615a8ff42ffd074448f0feec42
